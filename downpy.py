@@ -1,7 +1,6 @@
 #coding: utf-8
 # Developer: Derxs
 # Version: 1.0
-from tqdm import tqdm
 from colored import fg, bg, attr
 import requests, time, random, os
 
